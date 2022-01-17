@@ -1,2 +1,2 @@
 # curso-react-native
-Curdo de React Native
+Curso de React Native
